@@ -1,6 +1,6 @@
  # Url shorter  
  
- This is my second practice.
+ This is my second practice of django.
 
 ## operation: 
 When type an url, it can show shorter url
